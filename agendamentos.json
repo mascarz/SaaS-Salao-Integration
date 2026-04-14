@@ -1,0 +1,28 @@
+{
+  "agendamentos": [],
+  "usuarios": [],
+  "configuracoes": {
+    "servicos": [
+      {
+        "id": 1,
+        "nome": "Corte de Cabelo Masculino",
+        "preco": 40
+      },
+      {
+        "id": 2,
+        "nome": "Corte de Cabelo Feminino",
+        "preco": 70
+      },
+      {
+        "id": 3,
+        "nome": "Barba Completa",
+        "preco": 30
+      },
+      {
+        "id": 4,
+        "nome": "Manicure & Pedicure",
+        "preco": 60
+      }
+    ]
+  }
+}
